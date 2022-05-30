@@ -1,0 +1,14 @@
+<annotation>
+	<folder>Reem palm dataset</folder>
+	<filename>image965.tif</filename>
+	<path>D:\PalmTreeDetection\Reem 889 - 1208-20220103T050037Z-001\Reem 889 - 1208\Reem palm dataset\Reem palm dataset\image965.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
