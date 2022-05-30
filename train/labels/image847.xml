@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Reem 592-888</folder>
+	<filename>image847.tif</filename>
+	<path>D:\Google Drive\bsamour\Downloads\Reem 592-888\Reem 592-888\image847.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>186</ymin>
+			<xmax>30</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+</annotation>
