@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Reem 592-888</folder>
+	<filename>image622.tif</filename>
+	<path>D:\Google Drive\reaalali\Desktop\palms labeling\Reem 592-888\image622.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>172</ymin>
+			<xmax>230</xmax>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>166</ymin>
+			<xmax>152</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>152</ymin>
+			<xmax>76</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>
