@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Reem palm dataset</folder>
+	<filename>image1010.tif</filename>
+	<path>D:\Google Drive\reaalali\Desktop\Reem palm dataset\image1010.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>1</ymin>
+			<xmax>256</xmax>
+			<ymax>36</ymax>
+		</bndbox>
+	</object>
+</annotation>

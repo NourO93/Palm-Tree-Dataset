@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Reem palm dataset</folder>
+	<filename>image1062.tif</filename>
+	<path>D:\PalmTreeDetection\Reem 889 - 1208-20220103T050037Z-001\Reem 889 - 1208\Reem palm dataset\Reem palm dataset\image1062.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>209</ymin>
+			<xmax>104</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<ymin>206</ymin>
+			<xmax>178</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>182</xmin>
+			<ymin>203</ymin>
+			<xmax>252</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>
