@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Firas</folder>
+	<filename>image350.tif</filename>
+	<path>D:\Google Drive\fanaaj\Downloads\Imagetolabel - Copy-20211124T094653Z-001\Firas\image350.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>palmtree</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>81</ymin>
+			<xmax>188</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>
