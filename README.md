@@ -10,3 +10,5 @@ If used, please cite our work as follows:
   booktitle={The International Geoscience and Remote Sensing Symposium (IGARSS)},
   year={2022}
 }
+
+For inquiries/comments/suggestions, please contact: nour.aburaed@ieee.org
